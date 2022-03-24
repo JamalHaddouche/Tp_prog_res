@@ -6,6 +6,11 @@ Partie 6 : application serveur de jeu
 ce serveur choisi un entier aléatoirement ,les client qui sont connecté au serveur estiment le nombre choisi par le serveur jusqu'à ce que l'un des clients aura la bon réponse
 ![c3](https://user-images.githubusercontent.com/82270887/159922799-0edc0781-2d7e-4e9f-8b84-896f6422a6ea.PNG)
 
+Serveur de jeu avec une interface 
+
+![c6](https://user-images.githubusercontent.com/82270887/159995591-d93409d8-2e6a-43e7-9677-de29dc215ef8.PNG)
+
+
 Partie 7 : serveur de chat
 
 les clients sont connecté au serveur ,ils echangent des messages entre eux (cette partie est faite son interface graphique)
